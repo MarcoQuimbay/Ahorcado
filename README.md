@@ -11,7 +11,7 @@ Objetivo: Programa virtual de entretenimiento del juego ahorcado
 
 FUNCIONALIDADES
 
-	MENÚ 
+   MENÚ 
   
    ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen1.jpg)
    
@@ -61,11 +61,11 @@ FUNCIONALIDADES
   
   ALMACENAMIENTO DE ESTADÍSTICAS
   
-	![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen9.jpg)
+  ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen9.jpg)
   
   
   
-	ESTADÍSTICAS
+   ESTADÍSTICAS
   
-	![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen10.jpg)
+   ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen10.jpg)
 
